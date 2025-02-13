@@ -1,0 +1,16 @@
+import os 
+
+os.system("clear") #limpa o terminal.
+
+#solicitando dados (Entrada)
+valor=int(input("Digite o seu valor, MAIOR que DEZ:"))
+#verificando(Processamento)
+
+if  valor >10:
+    print("MAIOR QUE 10!")
+else:
+    print("NÃO É MAIOR QUE 10!:")
+    #Exibindo dados (saida)
+
+
+    print("==fim==")
