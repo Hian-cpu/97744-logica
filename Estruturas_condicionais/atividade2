@@ -10,8 +10,8 @@ if  numero == 10:
 
 
 if  numero > 10:
-    print("É MAIOR QUE 10:")
+    print("É MAIOR QUE 10!")
 
 if numero < 10:
-    print("É menor que 10:")
+    print("É menor que 10!")
     

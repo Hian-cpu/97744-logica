@@ -8,7 +8,7 @@ segundo_numero = float(input("Digite o Segundo Número:"))
 
 soma = primeiro_numero + segundo_numero
 produto = primeiro_numero * segundo_numero
-media = ("Primeiro_numero + Segundo_numero") / 2
+media = (primeiro_numero + segundo_numero) / 2
 
 
 maior_numero = max(primeiro_numero, segundo_numero)

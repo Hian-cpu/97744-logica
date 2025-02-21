@@ -16,9 +16,9 @@ print()
 media = (primeira_nota + segunda_nota + terceira_nota) /3 
 
 
- #verificando (processamento)
+#verificando (processamento)
 
-if media >7:
+if media >=7:
     print("APROVADO!")
 else:
     print("REPROVADO!")

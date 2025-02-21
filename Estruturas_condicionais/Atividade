@@ -3,7 +3,7 @@ import os
 os.system("clear") #limpa o terminal.
 
 #solicitando dados (Entrada)
-valor=int(input("Digite o seu valor, MAIOR que DEZ:"))
+valor=int(input("Digite o valor, MAIOR que DEZ:"))
 #verificando(Processamento)
 
 if  valor >10:

@@ -2,12 +2,11 @@ import os
 
 os.system("clear")  #Limpa o terminal.
 
-#solicitando dados
-login = int(input("Digite seu login:"))
-senha = int(input("Digite sua senha:"))
+login = input("Digite seu login: ")
+senha = input("Digite sua senha: ")
 
 login_cadastrado = "Hian"
-senha_cadastrada = "1234"
+senha_cadastrada = "021983"
 
 if login_cadastrado == login and senha_cadastrada == senha:
     print("Bem-vindo!")
